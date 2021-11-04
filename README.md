@@ -3,7 +3,7 @@
 [![ GitHub ](https://img.shields.io/badge/Github-informational?style=flat-square&logo=github&logoColor=white&color=grey)](https://github.com/vanhiupun)
 [![ GitHub ](https://img.shields.io/badge/My_Blog-informational?style=flat-square&logo=Blogger&logoColor=white&color=grey)](https://vanhiupun.github.io)
 [![ GitHub ](https://img.shields.io/badge/Gmail-informational?style=flat-square&logo=Gmail&logoColor=white&color=grey)](mailto:fanxiaobin422@gmail.com)
-[![ GitHub ](https://img.shields.io/badge/License-MIT-informational?style=flat-square&logo=Mitsubishi&logoColor=white&color=white)](license)
+[![ GitHub ](https://img.shields.io/badge/License-MIT-informational?style=flat-square&logo=Mitsubishi&logoColor=white&color=white)](https://github.com/vanhiupun/vanhiupun/blob/1cf79c9ab7c90ba5cad204cba19b95842413a436/License)
 
 
 
@@ -13,22 +13,6 @@
   - 《[机场指南（二）机场服务器线路科普](https://vanhiupun.github.io/%E6%9C%BA%E5%9C%BA%E6%8C%87%E5%8D%97/2021/10/31/%E5%85%B3%E4%BA%8E%E6%9C%BA%E5%9C%BA%E5%B8%B8%E7%94%A8%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%BA%BF%E8%B7%AF%E7%9A%84%E7%A7%91%E6%99%AE.html)》
 
 
-  
-
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
 ## 📈GitHub Stats
 
