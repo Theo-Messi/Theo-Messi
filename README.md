@@ -1,10 +1,10 @@
 ### Yoo, I'm Vanhiupun 👋
 
 
-[![ GitHub ](https://img.shields.io/badge/Github-informational?style=flat-square&logo=github&logoColor=white&color=grey)](https://github.com/vanhiupun)
-[![ GitHub ](https://img.shields.io/badge/My_Blog-informational?style=flat-square&logo=Blogger&logoColor=white&color=grey)](https://vanhiupun.github.io)
-[![ GitHub ](https://img.shields.io/badge/Gmail-informational?style=flat-square&logo=Gmail&logoColor=white&color=grey)](mailto:fanxiaobin422@gmail.com)
-[![ GitHub ](https://img.shields.io/badge/License-MIT-informational?style=flat-square&logo=Mitsubishi&logoColor=white&color=white)](https://github.com/vanhiupun/vanhiupun/blob/1cf79c9ab7c90ba5cad204cba19b95842413a436/License)
+[![ GitHub ](https://img.shields.io/badge/Github-%E4%BB%93%E5%BA%93-red?style=flat-square&logo=github&logoColor=ffffff&color=f3a306)](https://github.com/vanhiupun)
+[![ Blog ](https://img.shields.io/badge/Blog-%E5%8D%9A%E5%AE%A2-red?style=flat-square&logo=Blogger&logoColor=ffffff&color=f3a306)](https://vanhiupun.github.io)
+[![ Gmail ](https://img.shields.io/badge/Gmail-%E9%82%AE%E7%AE%B1-red?style=flat-square&logo=Gmail&logoColor=ffffff&color=f3a306)](mailto:fanxiaobin422@gmail.com)
+[![ MIT ](https://img.shields.io/badge/License-MIT-red?style=flat-square&logo=Mitsubishi&logoColor=ffffff&color=f3a306)](https://github.com/vanhiupun/vanhiupun/blob/1cf79c9ab7c90ba5cad204cba19b95842413a436/License)
 
 
 - 🌱 I’m currently learning Go and Algorithms
