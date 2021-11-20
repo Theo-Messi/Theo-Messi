@@ -36,13 +36,13 @@ alt="MIT" />
 - 💬 [向我询问问题](https://github.com/vanhiupun/Vanhiupun.github.io/issues)
 
 <h2>赞助</h2>
-
-<td><img src="/img/alipay.JPG" width = "40%" /></td>
-<td><img src="/img/WeChat.JPG" width = "40%" /></td>
-
-
 <!--
-#### 📈GitHub Stats
+<td><img src="/img/alipay.JPG" width = "40%" /></td>
+<td><img src="/img/WeChat.JPG" width = "40%" /></td>-->
+
+<img style="display:inline-block" src="/img/alipay.JPG" width = "40%"><img style="display:inline-block" src="/img/WeChat.JPG" width = "40%">
+
+<!--#### 📈GitHub Stats
 
 <a href="https://github.com/vanhiupun/vanhiupun">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanhiupun&show_icons=true&theme=onedark&layout=compact&)" />
