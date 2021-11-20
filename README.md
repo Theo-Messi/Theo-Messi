@@ -19,19 +19,21 @@ alt="Blog" />
 alt="Gmail" />
 </a> 
 
-<a href="[mailto:fanxiaobin422@gmail.com](https://github.com/vanhiupun/Vanhiupun.github.io/blob/c0c037532393ee2718892f87b200a0bbe33e7eb9/License)">
+<a href="https://github.com/vanhiupun/Vanhiupun.github.io/blob/c0c037532393ee2718892f87b200a0bbe33e7eb9/License">
   <img src="https://img.shields.io/badge/License-MIT-red?style=flat-square&logo=Mitsubishi&logoColor=ffffff&color=f3a306" 
 alt="MIT" />
 </a>
 
 
 <h2>介绍</h2>
-- 🌱 我目前正在学习围棋和算法
 
-- 💬 向我询问问题
+- 🌱 我目前正在学习算法
   
-- 📕 [我的博客](https://vanhiupun.github.io/)
-
+- 📖 [我的博客](https://vanhiupun.github.io/)
+  
+- 💻 [制作一个和我一样的博客](https://github.com/vanhiupun/Vanhiupun.github.io)
+  
+- 💬 [向我询问问题](https://github.com/vanhiupun/Vanhiupun.github.io/issues)
 <!--
 #### 📈GitHub Stats
 
