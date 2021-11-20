@@ -37,8 +37,10 @@ alt="MIT" />
 
 <h2>赞助</h2>
 
-![](/img/alipay.JPG)![](/img/WeChat.JPG)
+![1-w150](/img/alipay.JPG)
+<img src="/img/alipay.JPG" width = "80%" />
 
+![2-w150](/img/WeChat.JPG )
 
 <!--
 #### 📈GitHub Stats
