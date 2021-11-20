@@ -34,6 +34,8 @@ alt="MIT" />
 - 💻 [制作一个和我一样的博客](https://github.com/vanhiupun/Vanhiupun.github.io)
   
 - 💬 [向我询问问题](https://github.com/vanhiupun/Vanhiupun.github.io/issues)
+  
+- - 📧 [或者给我发Email](mailto:fanxiaobin422@gmail.com)
 
 <h2>赞助</h2>
 
