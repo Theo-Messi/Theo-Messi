@@ -37,8 +37,7 @@ alt="MIT" />
 
 <h2>赞助</h2>
 
-<img style="display:inline-block" src="/img/alipay.JPG" width = "40%"><img style="display:inline-block" src="/img/WeChat.JPG" width = "40%">
-
+<img src="./img/zz.png">
 <!--#### 📈GitHub Stats
 
 <a href="https://github.com/vanhiupun/vanhiupun">
