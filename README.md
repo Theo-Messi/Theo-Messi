@@ -36,8 +36,7 @@ alt="MIT" />
 - 💬 [向我询问问题](https://github.com/vanhiupun/Vanhiupun.github.io/issues)
 
 <h2>赞助</h2>
-<img src="/img/alipay.JPG" width = "40%" />
-<img src="/img/WeChat.JPG" width = "40%" />
+<img src="/img/alipay.JPG" width = "40%" /><img src="/img/WeChat.JPG" width = "40%" />
 
 <!--
 #### 📈GitHub Stats
