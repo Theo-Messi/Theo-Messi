@@ -20,7 +20,7 @@ alt="Gmail" />
 </a> 
 
 <a href="https://github.com/vanhiupun/Vanhiupun.github.io/blob/c0c037532393ee2718892f87b200a0bbe33e7eb9/License">
-  <img src="https://img.shields.io/badge/License%20MIT-EC9430?style=flat-square&logo=Mitsubishi&logoColor=ffffff" 
+  <img src="https://img.shields.io/badge/License%20MIT-f2cb05?style=flat-square&logo=Mitsubishi&logoColor=222222" 
 alt="MIT" />
 </a>
 
