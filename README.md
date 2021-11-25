@@ -15,7 +15,7 @@ alt="Blog" />
 </a> 
 
 <a href="mailto:fanxiaobin422@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff" 
+  <img src="https://img.shields.io/badge/Send%20me%20Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff" 
 alt="Gmail" />
 </a> 
 
