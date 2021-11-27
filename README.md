@@ -2,7 +2,7 @@
 
 <img align="right" height="250" alt="GIF" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif" />
 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=vanhiupun&show_icons=true&hide_border=true&hide=prs&include_all_commits=true&locale=cn">
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=vanhiupun&show_icons=true&hide_border=true&include_all_commits=true&locale=cn&count_private=true">
 
 <a href="https://github.com/vanhiupun">
   <img src="https://img.shields.io/badge/Github%20Repository-222222?style=flat-square&logo=github&logoColor=ffffff"
