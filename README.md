@@ -5,21 +5,21 @@
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=vanhiupun&show_icons=true&hide_border=true&locale=cn&count_private=true&include_all_commits=true&count_private=true&">
 
 <a href="https://github.com/vanhiupun">
-  <img src="https://img.shields.io/badge/Github%20Repository-222222?style=flat-square&logo=github&logoColor=ffffff"
+  <img src="https://img.shields.io/badge/Github%20Repository-f2cb05?style=flat-square&logo=github&logoColor=222222"
 alt="Github" />
 </a> 
 
 <a href="https://vanhiupun.github.io">
-  <img src="https://img.shields.io/badge/Github%20Page-222222?style=flat-square&logo=github&logoColor=ffffff" 
+  <img src="https://img.shields.io/badge/Github%20Page-f2cb05?style=flat-square&logo=github&logoColor=222222" 
 alt="Blog" />
-</a> 
-
-<a href="mailto:fanxiaobin422@gmail.com">
-  <img src="https://img.shields.io/badge/Send%20me%20Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff" 
-alt="Gmail" />
 </a> 
 
 <a href="https://github.com/vanhiupun/Vanhiupun.github.io/blob/c0c037532393ee2718892f87b200a0bbe33e7eb9/License">
   <img src="https://img.shields.io/badge/License%20MIT-f2cb05?style=flat-square&logo=Mitsubishi&logoColor=222222" 
 alt="MIT" />
 </a>
+
+<a href="mailto:fanxiaobin422@gmail.com">
+  <img src="https://img.shields.io/badge/Send%20me%20Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff" 
+alt="Gmail" />
+</a> 
