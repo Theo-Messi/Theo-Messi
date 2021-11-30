@@ -5,7 +5,7 @@
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=vanhiupun&show_icons=true&locale=cn&count_private=true&include_all_commits=true">
 
 <a href="https://github.com/vanhiupun">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=vanhiupun.visitor-badge"
+  <img src="https://visitor-badge.glitch.me/badge?page_id=vanhiupun.visitor-badge&right_color=yellow"
 alt="visitor" />
 </a> 
 
