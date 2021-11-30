@@ -10,6 +10,11 @@ alt="visitor" />
 </a> 
 
 <a href="https://github.com/vanhiupun">
+  <img src="https://img.shields.io/badge/Platform-windows%20%7C%20macos%20%7C%20linux-f2cb05?style=flat-square"
+alt="Platform" />
+</a> 
+
+<a href="https://github.com/vanhiupun">
   <img src="https://img.shields.io/badge/Github%20Repository-f2cb05?style=flat-square&logo=github&logoColor=222222"
 alt="Github" />
 </a> 
