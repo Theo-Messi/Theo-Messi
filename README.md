@@ -1,6 +1,6 @@
 
 <a><img align="right" height="250" alt="GIF" src="https://cdn.jsdelivr.net/gh/vanhiupun/pic@1.0/img/2016-05-15_iOd_ij.gif" /></a>
-<a><img width="400" height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=vanhiupun&show_icons=true&bg_color=3a3c3b&text_color=FFFFFF&title_color=FFFFFF" /></a>
+<a><img width="400" src="https://github-readme-stats.vercel.app/api?username=vanhiupun&show_icons=true&bg_color=3a3c3b&text_color=FFFFFF&title_color=FFFFFF" /></a>
 
 - ![Static Badge](https://img.shields.io/badge/javascript-3a3c3b?style=flat-square&logo=javascript&labelColor=3a3c3b)
 ![Static Badge](https://img.shields.io/badge/Git-3a3c3b?style=flat-square&logo=git&labelColor=3a3c3b)
