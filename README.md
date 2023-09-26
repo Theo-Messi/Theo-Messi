@@ -17,4 +17,4 @@
 
 - :computer: 我是一个业余的开发爱好者,如果你有什么有趣的事情想要和我讨论，[可以给我发邮件](mailto:fanxiaobin422@gmail.com)
 - :memo: [科学上网/奈飞观看/流媒体机场分享](https://theovan.wiki)｜[SMS海外接码平台](https://sms-activate.org/?ref=8170513)｜[哪吒面板](http://nz.theovan.xyz)｜[ChatGpt 网页版](https://ai.theovan.xyz)
-- :pushpin:[一元机场](https://一元机场.click/#/register?code=tFcXfJEu)｜[薯条机场](https://av1.wtf/auth/register?code=vb4p)｜[Bridge the Wise](https://patriot.ninja/aff.php?aff=1471)｜[蜜糖商店](https://metshop.vip?referrerUserNo=MTU51076)｜[奈飞小铺](https://ihezu.love/UKTer6)
+- :pushpin:[一元机场](https://一元机场.click/#/register?code=tFcXfJEu)｜[FlyingBird - 飞鸟机场](https://fbaff01.flyb-aff01.com/auth/register?code=RZP3)｜[Bridge the Wise](https://patriot.ninja/aff.php?aff=1471)｜[蜜糖商店](https://metshop.vip?referrerUserNo=MTU51076)｜[奈飞小铺](https://ihezu.love/UKTer6)
