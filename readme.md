@@ -9,7 +9,7 @@
 | :------------: | :------------------------------------------------------- |
 | **博&emsp;&emsp;客** | **<https://doc.theojs.cn>**                            |
 | **玄学宝典** | **<https://xx.theojs.cn>**          |
-| **Lumen** | **<https://tools.theojs.cn>**          |
+| **Lumen** | **<https://lumen.theojs.cn>**          |
 
 **Languages:**
 
