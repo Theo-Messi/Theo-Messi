@@ -34,7 +34,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theo-Messi&layout=compact)
 
 
-- :pushpin: [青云梯](https://ivt01.qytaff.cc/register?aff=jjgD79Jd)｜[FlyingBird](https://fbinv02.fbaff.cc/auth/register?code=RZP3)｜[Bridge the Wise](https://patriot.ninja/aff.php?aff=1471)｜[飞兔云](https://xn--9kq10e0y7h.site/index.html?register=2cFF8mg4)｜[奈飞小铺](https://ihezu.love/UKTer6)｜[银河录像局](https://nf.video/kaIuE)
+- :pushpin: [青云梯](https://ivt01.qytaff.cc/register?aff=jjgD79Jd)｜[FlyingBird](https://fbinv02.fbaff.cc/auth/register?code=RZP3)｜[TNT Cloud](https://w05.tntyunb01.cc/#/register?code=lN1ybwM8)｜[飞兔云](https://xn--9kq10e0y7h.site/index.html?register=2cFF8mg4)｜[奈飞小铺](https://ihezu.love/UKTer6)｜[银河录像局](https://nf.video/kaIuE)｜[蜜糖商店](https://metshop.cn?referrerUserNo=MTU51076)
 
 **赞 助**
 
